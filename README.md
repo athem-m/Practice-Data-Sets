@@ -6,7 +6,7 @@
 
 ## Charges
 
-[NBViewer}(https://nbviewer.org/github/athem-m/Practice-Data-Sets/blob/master/charges/charges-da.ipynb)
+[NBViewer](https://nbviewer.org/github/athem-m/Practice-Data-Sets/blob/master/charges/charges-da.ipynb)
 
 ## Personal
 
